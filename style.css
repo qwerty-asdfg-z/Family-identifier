@@ -1,0 +1,16 @@
+body{
+   background-color: darkorchid;
+}
+p{
+    color: deepskyblue;
+}
+button{
+    color: darkgoldenrod;
+    background-color: darkturquoise;
+}
+
+#pen,#book,#remote,#mobile_phone{
+    color:navy;
+ background-color:mediumvioletred;
+    width:100%; 
+}
